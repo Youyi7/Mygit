@@ -5,5 +5,3 @@ make a test
 test zacun
 
 Git tracks changes of files.
-
-dddd
